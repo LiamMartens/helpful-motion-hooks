@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "lib-types"
+  },
+  "include": ["src"],
+  "exclude": [
+    "node_modules"
+  ]
+}
