@@ -1,3 +1,3 @@
-export * from './useImmediateRef';
-export * from './useParallax';
-export * from './useRelativeMouseFollow';
+export * from './useImmediateRef.js';
+export * from './useParallax.js';
+export * from './useRelativeMouseFollow.js';
