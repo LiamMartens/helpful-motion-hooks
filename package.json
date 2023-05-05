@@ -1,8 +1,8 @@
 {
   "name": "helpful-motion-hooks",
   "sideEffects": false,
-  "version": "0.0.3",
-  "main": "lib/index.js",
+  "version": "0.0.4",
+  "type": "module",
   "module": "lib/index.js",
   "types": "lib-types/index.d.ts",
   "files": [
@@ -10,9 +10,7 @@
     "lib-types"
   ],
   "exports": {
-    ".": [
-      "./lib/index.js"
-    ]
+    ".": "./lib/index.js"
   },
   "license": "MIT",
   "author": {
